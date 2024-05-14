@@ -1,6 +1,6 @@
 export const Navbar = () => {
     return (
-        <nav className="navbar navbar-expand-lg py-3 shadow-sm bg-white">
+        <nav className="navbar navbar-expand-lg navbar-light py-3 shadow-sm bg-white">
             <div className="container">
                 <a className="navbar-brand fw-bold fs-4" href="#">GUBANOV BRAND</a>
                 <button className="navbar-toggler" type="button" data-bs-toggle="collapse"
